@@ -11,5 +11,5 @@ A concept site for a fresh seafood marketplace and restaurant.
 
 **Tech used:** HTML, CSS, JavaScript
 
-A concept site built with html5up template. 
+Modified off of a HTML5up.net design template
 
